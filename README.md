@@ -38,7 +38,7 @@ Together, we solved $32/42$ challenges across various categories over the course
 | Web | **3/3** |
 | **Total** | **32/42** |
 
-Our team placed **82nd** out of 1051 participating teams with **5,180 points**.
+Our team placed **82nd** out of 1051 participating teams (according to the Teams list on https://spooky.ctfd.io/teams) with **5,180 points**.
 
 ---
 
