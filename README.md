@@ -41,7 +41,7 @@ Our team placed **82nd** out of 1051 participating teams.
 
 ## Write-Ups
 
-Below is the list of write-ups included in this repository:
+Below is the list of write-ups I've made, included in this repository:
 
 - **Forensics**
   - [Challenge Name](#)
@@ -49,11 +49,7 @@ Below is the list of write-ups included in this repository:
   - [Challenge Name](#)
 - **BinRev**
   - [Challenge Name](#)
-- **Web**
-  - [Challenge Name](#)
 - **Misc**
-  - [Challenge Name](#)
-- **OSINT**
   - [Challenge Name](#)
 
 ---
