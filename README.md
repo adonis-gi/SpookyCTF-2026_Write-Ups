@@ -1,4 +1,7 @@
 # SpookyCTF 2026 — Write-ups
+<p align="center">
+  <img src="spooky-logo-v2.png" alt="SpookyCTF 2026" width="548" height="528">
+</p>
 
 This repository contains the write-ups and notes for the challenges solved by team **Cyberstup** (the official CTF team of Cybersup) during **SpookyCTF 2026**.
 
