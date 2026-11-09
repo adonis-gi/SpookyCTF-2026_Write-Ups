@@ -43,14 +43,20 @@ Our team placed **82nd** out of 1051 participating teams.
 
 Below is the list of write-ups I've made, included in this repository:
 
-- **Forensics**
-  - [Challenge Name](#)
-- **Crypto**
-  - [Challenge Name](#)
-- **BinRev**
-  - [Challenge Name](#)
-- **Misc**
-  - [Challenge Name](#)
+### Forensics
+- [Stash The Hash](forensics/stash-the-hash.md)
+- [Eisoptrophobia](forensics/eisoptrophobia.md)
+- [Arachnophobia](forensics/arachnophobia.md)
+- [The Haunted Portrait](forensics/the-haunted-portrait.md)
+- [The Phantom Login](forensics/the-phantom-login.md)
+- [Phasmophobia](forensics/phasmophobia.md)
+
+### Crypto
+- [Heads will Roll](crypto/heads-will-roll.md)
+- [I Feel Like Someone's Watching Me](crypto/i-feel-like-someones-watching-me.md)
+
+### Misc
+- [Demented Memories](misc/demented-memories.md)
 
 ---
 
