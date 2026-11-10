@@ -38,7 +38,7 @@ Together, we solved $32/42$ challenges across various categories over the course
 | Web | **3/3** |
 | **Total** | **32/42** |
 
-Our team placed **82nd** out of 1051 participating teams (according to the Teams list on https://spooky.ctfd.io/teams) with **5,180 points**.
+Our team placed **82nd** out of ~750 participating teams with **5,180 points**.
 
 ---
 
@@ -71,6 +71,6 @@ Below is the list of write-ups I've made, included in this repository:
 - **Format:** Jeopardy-style Capture the Flag
 - **Team:** Cyberstup (Cybersup's CTF Team)
 - **Captain:** J0s3ph_AAAAA
-- **Final Rank:** 82 / 1051 (5,180 pts)
+- **Final Rank:** 82 / 750 (5,180 pts)
 - **Solves:** $32/42$
 - **Links:** [SpookyCTF Website](https://spooky.ctfd.io/) | [CTFtime Event Page](https://ctftime.org/event/3339)
