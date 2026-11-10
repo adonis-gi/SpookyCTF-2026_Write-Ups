@@ -2,6 +2,7 @@
 
 - **Category:** Forensics
 - **Flag:** `spooky{th3y_ar3_w2tch1ng}`
+- Cleared by **Fayde**
 
 ## Solution
 
