@@ -53,6 +53,7 @@ Below is the list of write-ups I've made, included in this repository:
 - [The Haunted Portrait](forensics/the-haunted-portrait.md)
 - [The Phantom Login](forensics/the-phantom-login.md)
 - [Phasmophobia](forensics/phasmophobia.md)
+- [Peering Eyes](forensics/peering-eyes.md) (by Fayde !)
 
 ### Crypto
 - [Heads will Roll](crypto/heads-will-roll.md)
